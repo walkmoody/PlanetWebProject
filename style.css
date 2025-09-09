@@ -35,6 +35,10 @@ body, h1, h2, h3, p {
     text-align: center;
     
   }
+    ::-webkit-scrollbar{
+    display: none;
+  }
+
   
   /* Style the planet image */
   #image-container {
